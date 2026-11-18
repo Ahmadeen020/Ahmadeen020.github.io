@@ -19,3 +19,6 @@ In GitHub, open **Settings → Pages** and select **GitHub Actions** for Build a
 - Replace the LinkedIn URL with your actual profile.
 - Review project descriptions and links for accuracy.
 - Add the selected profile photo at `public/images/profile.jpg`.
+
+
+Deployment workflow retriggered after enabling GitHub Pages.
